@@ -1,10 +1,9 @@
 ---
 title : "General"
-description: "Invidious's General Documentation."
+description: "Invidious's Developers Documentation."
 lead: ""
 date:
 lastmod:
 draft: false
 images: []
 ---
-
