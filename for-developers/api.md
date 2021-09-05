@@ -1,11 +1,16 @@
 ---
-title: API
-description: 
-published: true
-date: 2021-05-23T16:58:08.783Z
-tags: 
-editor: markdown
-dateCreated: 2021-01-28T20:38:53.557Z
+title: "API"
+description: "Invidious's API documentation"
+lead: "Invidious's API documentation"
+date:
+lastmod:
+draft: false
+images: []
+menu:
+  docs:
+    parent: "for-developers"
+weight: 100
+toc: true
 ---
 
 ### Language

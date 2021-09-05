@@ -1,11 +1,16 @@
 ---
-title: Authenticated-Endpoints
-description: 
-published: true
-date: 2021-05-23T16:58:20.048Z
-tags: 
-editor: markdown
-dateCreated: 2021-01-28T20:39:08.568Z
+title: "Authenticated-Endpoints"
+description: "Invidious's authenticated endpoints documentation"
+lead: "Invidious's authenticated endpoints documentation"
+date:
+lastmod:
+draft: false
+images: []
+menu:
+  docs:
+    parent: "for-developers"
+weight: 100
+toc: true
 ---
 
 All endpoints under namespace `/api/v1/auth` require authentication.
