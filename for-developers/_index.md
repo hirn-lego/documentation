@@ -1,5 +1,5 @@
 ---
-title : "General"
+title : "Developers"
 description: "Invidious's Developers Documentation."
 lead: ""
 date:

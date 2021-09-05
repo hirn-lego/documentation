@@ -1,5 +1,5 @@
 ---
-title : "General"
+title : "Administrators"
 description: "Invidious's Administrators Documentation."
 lead: ""
 date:
