@@ -1,11 +1,16 @@
 ---
-title: How-to-setup-Anti-Captcha
-description: 
-published: true
-date: 2021-05-23T16:58:44.758Z
-tags: 
-editor: markdown
-dateCreated: 2021-01-28T20:39:41.544Z
+title: "Anti-Captcha"
+description: "Invidious's Anti-Captcha documentation."
+lead: "Invidious's Anti-Captcha documentation."
+date:
+lastmod:
+draft: false
+images: []
+menu:
+  docs:
+    parent: "for-administrators"
+weight: 100
+toc: true
 ---
 
 1. Register on anti-captcha.com: https://anti-captcha.com/clients/entrance/register and finish the registration with the link provided in your mailbox.

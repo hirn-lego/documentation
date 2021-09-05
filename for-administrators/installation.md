@@ -1,11 +1,16 @@
 ---
-title: Installation
-description: 
-published: true
-date: 2021-05-23T16:58:48.374Z
-tags: 
-editor: markdown
-dateCreated: 2021-02-25T11:24:06.655Z
+title: "Installation"
+description: "Invidious's Installation documentation."
+lead: "Invidious's Installation documentation."
+date:
+lastmod:
+draft: false
+images: []
+menu:
+  docs:
+    parent: "for-administrators"
+weight: 100
+toc: true
 ---
 
 # Installation

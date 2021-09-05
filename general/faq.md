@@ -1,3 +1,18 @@
+---
+title: "FAQ"
+description: "Invidious's FAQ."
+lead: "Invidious's FAQ."
+date:
+lastmod:
+draft: false
+images: []
+menu:
+  docs:
+    parent: "general"
+weight: 100
+toc: true
+---
+
 # Frequently Asked Questions
 
 ## Table of Contents

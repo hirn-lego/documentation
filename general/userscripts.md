@@ -1,11 +1,16 @@
 ---
-title: Always-use-"local"-to-proxy-video-through-the-server-without-creating-an-account
-description: 
-published: true
-date: 2021-05-23T16:58:12.539Z
-tags: 
-editor: markdown
-dateCreated: 2021-01-28T20:38:58.736Z
+title: "Userscripts"
+description: "Invidious's Userscripts documentation."
+lead: "Invidious's Userscripts documentation."
+date:
+lastmod:
+draft: false
+images: []
+menu:
+  docs:
+    parent: "general"
+weight: 100
+toc: true
 ---
 
 Download ViolentMonkey for your Browser:  

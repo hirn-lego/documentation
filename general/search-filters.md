@@ -1,11 +1,16 @@
 ---
-title: Search-operators
-description: 
-published: true
-date: 2021-05-23T16:59:19.319Z
-tags: 
-editor: markdown
-dateCreated: 2021-01-28T20:40:22.456Z
+title: "Search Filters"
+description: "Invidious's Search Filters documentation."
+lead: "Invidious's Search Filters documentation."
+date:
+lastmod:
+draft: false
+images: []
+menu:
+  docs:
+    parent: "general"
+weight: 100
+toc: true
 ---
 
 Invidious supports the various search filters provided by YouTube.

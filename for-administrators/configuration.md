@@ -1,11 +1,16 @@
 ---
-title: Configuration
-description: 
-published: true
-date: 2021-05-23T16:58:24.054Z
-tags: 
-editor: markdown
-dateCreated: 2021-01-28T20:39:13.768Z
+title: "Configuration"
+description: "Invidious's Configuration documentation."
+lead: "Invidious's Configuration documentation."
+date:
+lastmod:
+draft: false
+images: []
+menu:
+  docs:
+    parent: "for-administrators"
+weight: 100
+toc: true
 ---
 
 ### What can be configured and what are these configuration options?

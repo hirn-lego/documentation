@@ -1,11 +1,16 @@
 ---
-title: Geoblocking,-available-video-quality-and-DASH
-description: 
-published: true
-date: 2021-05-23T16:58:38.141Z
-tags: 
-editor: markdown
-dateCreated: 2021-01-28T20:39:32.300Z
+title: "Geoblock"
+description: "Invidious's Geoblock documentation."
+lead: "Invidious's Geoblock documentation."
+date:
+lastmod:
+draft: false
+images: []
+menu:
+  docs:
+    parent: "general"
+weight: 100
+toc: true
 ---
 
 ## Geoblocking

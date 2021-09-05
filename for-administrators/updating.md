@@ -1,11 +1,16 @@
 ---
-title: Updating
-description: 
-published: true
-date: 2021-05-23T16:59:22.409Z
-tags: 
-editor: markdown
-dateCreated: 2021-01-28T20:40:27.192Z
+title: "Updating"
+description: "Invidious's Updating documentation."
+lead: "Invidious's Updating documentation."
+date:
+lastmod:
+draft: false
+images: []
+menu:
+  docs:
+    parent: "for-administrators"
+weight: 100
+toc: true
 ---
 
 ## Invidious releases are based on tags. You can use them if you want to be sure your instance is stable.

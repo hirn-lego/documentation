@@ -1,11 +1,16 @@
 ---
-title: Database-Information-and-Maintenance
-description: 
-published: true
-date: 2021-05-23T16:58:27.530Z
-tags: 
-editor: markdown
-dateCreated: 2021-01-28T20:39:18.631Z
+title: "Database Maintenance"
+description: "Invidious's Database Maintenance documentation."
+lead: "Invidious's Database Maintenance documentation."
+date:
+lastmod:
+draft: false
+images: []
+menu:
+  docs:
+    parent: "for-administrators"
+weight: 100
+toc: true
 ---
 
 Invidious needs one PostgreSQL database which has the following tables.

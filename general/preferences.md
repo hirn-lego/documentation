@@ -1,11 +1,16 @@
 ---
-title: Preferences
-description: 
-published: true
-date: 2021-05-23T16:59:12.665Z
-tags: 
-editor: markdown
-dateCreated: 2021-01-28T20:40:12.674Z
+title: "Preferences"
+description: "Invidious's Preferences documentation."
+lead: "Invidious's Preferences documentation."
+date:
+lastmod:
+draft: false
+images: []
+menu:
+  docs:
+    parent: "general"
+weight: 100
+toc: true
 ---
 
 Preferences for Invidious can be stored in a cookie named `PREFS`.  This cookie can be set on the Invidious Preferences page.

@@ -1,11 +1,16 @@
 ---
-title: Apache2-Reverse-Proxy
-description: 
-published: true
-date: 2021-05-23T16:58:15.954Z
-tags: 
-editor: markdown
-dateCreated: 2021-01-28T20:39:03.772Z
+title: "Apache 2"
+description: "Invidious's Apache 2 documentation."
+lead: "Invidious's Apache 2 documentation."
+date:
+lastmod:
+draft: false
+images: []
+menu:
+  docs:
+    parent: "for-administrators"
+weight: 100
+toc: true
 ---
 
 - A very basic config, secured with Let's Encrypt. Any log is disabled by default. Do not forget to replace `ServerName` with your domain.

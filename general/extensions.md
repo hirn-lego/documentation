@@ -1,11 +1,16 @@
 ---
-title: Extensions
-description: 
-published: true
-date: 2021-05-23T16:58:34.318Z
-tags: 
-editor: markdown
-dateCreated: 2021-01-28T20:39:27.709Z
+title: "Extensions"
+description: "Invidious's Extensions documentation."
+lead: "Invidious's Extensions documentation."
+date:
+lastmod:
+draft: false
+images: []
+menu:
+  docs:
+    parent: "general"
+weight: 100
+toc: true
 ---
 
 ### Browser extensions for Invidious

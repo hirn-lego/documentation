@@ -1,11 +1,16 @@
 ---
-title: Issues-with-CAPTCHA-on-Debian-and-Ubuntu
-description: 
-published: true
-date: 2021-05-23T16:58:57.747Z
-tags: 
-editor: markdown
-dateCreated: 2021-01-28T20:39:51.349Z
+title: "Captcha's Bug"
+description: "Invidious's Captcha's Bug documentation."
+lead: "Invidious's Captcha's Bug documentation."
+date:
+lastmod:
+draft: false
+images: []
+menu:
+  docs:
+    parent: "for-administrators"
+weight: 100
+toc: true
 ---
 
 #### Warning: If you use ImageMagick on Ubuntu for other services like Mastodon this guide may break them, please use [this guide](https://linuxconfig.org/how-to-install-imagemagick-7-on-ubuntu-18-04-linux) instead.

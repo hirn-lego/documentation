@@ -1,11 +1,16 @@
 ---
-title: Export-YouTube-subscriptions
-description: 
-published: true
-date: 2021-05-23T16:58:30.841Z
-tags: 
-editor: markdown
-dateCreated: 2021-01-28T20:39:23.334Z
+title: "Export YouTube Subscriptions"
+description: "Invidious's Export YouTube Subscriptions documentation."
+lead: "Invidious's Export YouTube Subscriptions documentation."
+date:
+lastmod:
+draft: false
+images: []
+menu:
+  docs:
+    parent: "general"
+weight: 100
+toc: true
 ---
 
 **The steps below as well as the resulting file name are different depending on your Google language 

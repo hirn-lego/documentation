@@ -1,11 +1,16 @@
 ---
-title: Invidious-Instances
-description: 
-published: true
-date: 2021-05-23T16:58:51.441Z
-tags: 
-editor: markdown
-dateCreated: 2021-05-23T16:58:48.431Z
+title: "Public Instances"
+description: "Invidious's Public Instances."
+lead: "Invidious's Public Instances."
+date:
+lastmod:
+draft: false
+images: []
+menu:
+  docs:
+    parent: "general"
+weight: 100
+toc: true
 ---
 
 # Public Invidious Instances:
